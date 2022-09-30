@@ -1,37 +1,23 @@
+header {
+  background: #151245;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 12px;
+}
+
 body {
   margin: 0;
   /* background: #26217a; */
   background: #1d1a5e;
   height: 100vh;
   font-family: Helvetica;
-}
-
-header {
-  background: #010003;
-  height: 100px;
-}
-
-h1 {
-  color: white;
-}
-
-p {
-  color: rgb(218, 218, 218);
-  margin-bottom: 0;
-}
-
-div.volunteer-container {
   display: flex;
   flex-direction: column;
-  text-align: center;
-  justify-content: center;
-  height: 100%;
-}
-
-h1.volunteer {
-  color: white;
-  font-size: 3em;
-  padding-bottom: 30px
 }
 
 button {

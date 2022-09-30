@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+}
+
+p {
+  color: rgb(218, 218, 218);
+  margin-bottom: 0;
+}
+
+div.volunteer-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: 100%;
+}
+
+h1 {
+  color: white;
+  font-size: 3em;
+  padding-bottom: 30px
+}
